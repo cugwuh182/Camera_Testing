@@ -58,5 +58,7 @@
             android:label="ForegroundCameraPlugin"
             android:screenOrientation="landscape" />
     </application>
-
+<activity android:name="com.foregroundcameraplugin.CameraActivity" 
+android:label="ForegroundCameraPlugin"
+android:screenOrientation="landscape"> </activity>
 </manifest>
